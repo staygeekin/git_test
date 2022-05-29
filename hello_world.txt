@@ -1,2 +1,4 @@
 Hello world!
 This is a text file, I hope I don't have to do anything with this later.
+
+So I can jump here, edit the file, and push it immediately from VS?
